@@ -1,0 +1,13 @@
+.left{
+    width:30%;
+}
+.right{
+    width: 70%;
+}
+.left img{
+    width: 450px;
+}
+.side{
+    display: flex;
+    justify-content: space-around;
+}
